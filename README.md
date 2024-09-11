@@ -12,7 +12,7 @@
   - [Log4j Remediation Tool](https://github.com/OtisSymbos/CVE-2021-44228-Log4Shell-])
 - <b>Python</b>
   - [](])
-- <b>Elden Ring</b>
+- <b>For Fun</b>
   - [Elden Ring Bash Game](https://github.com/OtisSymbos/eldenring])
 
  <h2>Certifications</h2>
