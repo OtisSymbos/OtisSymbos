@@ -2,16 +2,18 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Elden Ring</b>
-  - [Goofy Bash Game](https://github.com/OtisSymbos/eldenring])
-- <b>Reconnaisance Tools</b>
-  - [X-Tool](https://github.com/OtisSymbos/X-Tool])
-  - [RECON](https://github.com/OtisSymbos/RECON])
+- <b>Reconnaisance</b>
+  - [X-Tool: Bash Multifunction Enumeration Tool](https://github.com/OtisSymbos/X-Tool])
+  - [RECON: Bash OSINT tool](https://github.com/OtisSymbos/RECON])
   - [Ping-Script](https://github.com/OtisSymbos/Ping-Script])
 - <b>Utilities</b>
-  - [](])
+  - [Windows Update with Powershell](https://github.com/OtisSymbos/WindowsUpdate-Powershell])
+  - [Windows Cert Padding Checker](https://github.com/OtisSymbos/CVE-2013-3900-WinTrustVerify)
+  - [Log4j Remediation Tool](https://github.com/OtisSymbos/CVE-2021-44228-Log4Shell-])
 - <b>Python</b>
   - [](])
+- <b>Elden Ring</b>
+  - [Elden Ring Bash Game](https://github.com/OtisSymbos/eldenring])
 
  <h2>Certifications</h2>
    / <b>CISSP</b>
