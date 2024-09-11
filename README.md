@@ -14,11 +14,12 @@
   - [Elden Ring Bash Game](https://github.com/OtisSymbos/eldenring])
 
  <h2>Certifications:</h2>
-   / <b>CISSP</b>
-   / <b>CompTIA Security+</b>
-   / <b>CompTIA Network+</b>
-   / <b>CompTIA A+</b>
-
+ <p>
+  <img src="https://img.shields.io/badge/CISSP-darkgreen?style=for-the-badge&logo=cissp&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Security%2B-darkred?style=for-the-badge&logo=compTIA&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Network%2B-orange?style=for-the-badge&logo=compTIA&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/A%2B-blue?style=for-the-badge&logo=compTIA&logoColor=white" height="35"/>
+</p>
 
 <h2> 🤳 Connect with me:</h2>
 
