@@ -13,7 +13,7 @@
 - <b>For Fun</b>
   - [Elden Ring Bash Game](https://github.com/OtisSymbos/eldenring])
 
- <h2>Certifications</h2>
+ <h2>Certifications:</h2>
    / <b>CISSP</b>
    / <b>CompTIA Security+</b>
    / <b>CompTIA Network+</b>
