@@ -1,6 +1,6 @@
 <h1>Hi, I'm Stephen! <a href="https://www.linkedin.com/in/stephen-danzey/">Cybersecurity Professional</a>, <a href="https://danzeysolutions.com">Tech Enthusiast</a></h1>
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+<h2>👨‍💻Projects:</h2>
 
 - <b>Reconnaisance</b>
   - [X-Tool: Bash Multifunction Enumeration Tool](https://github.com/OtisSymbos/X-Tool])
