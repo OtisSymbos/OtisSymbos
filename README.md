@@ -10,8 +10,6 @@
   - [Windows Update with Powershell](https://github.com/OtisSymbos/WindowsUpdate-Powershell])
   - [Windows Cert Padding Checker](https://github.com/OtisSymbos/CVE-2013-3900-WinTrustVerify)
   - [Log4j Remediation Tool](https://github.com/OtisSymbos/CVE-2021-44228-Log4Shell-])
-- <b>Python</b>
-  - [](])
 - <b>For Fun</b>
   - [Elden Ring Bash Game](https://github.com/OtisSymbos/eldenring])
 
